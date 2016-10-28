@@ -1,3 +1,9 @@
+# Git 101 Course
+
+Using leemunroe/responsive-html-email-template as an example repository. :D
+
+----------
+
 # Really Simple Responsive HTML Email Template
 
 Sometimes all you want is a really simple responsive HTML email template. Here it is.
